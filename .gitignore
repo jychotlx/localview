@@ -1,0 +1,6 @@
+.DS_Store
+.htaccess
+ci/
+ci_backup/
+web/
+
