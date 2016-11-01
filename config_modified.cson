@@ -1,0 +1,32 @@
+"*":
+  core:
+    disabledPackages: [
+      "bracket-matcher"
+      "autocomplete-css"
+      "autocomplete-plus"
+      "autocomplete-html"
+      "autocomplete-snippets"
+      "autocomplete-atom-api"
+    ]
+    openEmptyEditorOnStart: false
+    projectHome: "{UserDir}"
+    telemetryConsent: "no"
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    fontFamily: "D2Coding"
+    invisibles: {}
+    showInvisibles: true
+    softWrap: true
+    tabType: "soft"
+    zoomFontWhenCtrlScrolling: false
+  "exception-reporting":
+    userId: "a5e6e9f3-74e0-88f4-b69d-22d3e6ec761a"
+  "tree-view":
+    showOnRightSide: true
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ensureSingleTrailingNewline: false
